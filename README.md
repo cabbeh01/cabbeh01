@@ -1,6 +1,6 @@
 ![](https://github.com/cabbeh01/cabbeh01/blob/main/banner.png)
 ### Hi, I'm Casper 😃
-And I am a student at Halmstad University. On my github profile you can find my personal projects or projects I've done at lecture. When not studying I'm coding or playing guitar🎸. I'm really intressted in the field of Artificiell Intelligence and hope that I could someday use the technology to something good and productive in the world.
+I am a student at Halmstad University. On my github profile you can find my personal projects or projects I've done at lecture. When not studying I'm coding or playing guitar🎸. I'm really intressted in the field of Artificiell Intelligence and hope that I could someday use the technology to something good and productive in the world.
 
 
 ## Reach me 🤙
